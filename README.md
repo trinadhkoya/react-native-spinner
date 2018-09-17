@@ -1,7 +1,7 @@
 **React Native Wrapper for Activity Indicator**
     
-        Don't let user wait for the response ,meanwhile  show him some fun or shoe someting which he might like . 
-        So, I created a libray to show Loader which may attracts user attention  
+    Don't let user wait for the response ,meanwhile  show him some fun or shoe someting which he might like . 
+    So, I created a libray to show Loader which may attracts user attention  
 
 **Getting started**
 
