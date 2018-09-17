@@ -1,3 +1,12 @@
+/**
+ * react-native-spinner
+ * eye catching Spinner for both Android and iOS
+ * GitHub:https://github.com/trinadhkoya/react-native-spinner
+ * Email:trinadhkoya9@gmail.com
+ * Profile:https://in.linkedin.com/in/trinadhkoya
+ */
+
+
 import {Component} from 'react';
 import {PropTypes} from 'prop-types';
 import {Image, Modal, StatusBar, StyleSheet, View} from 'react-native';
