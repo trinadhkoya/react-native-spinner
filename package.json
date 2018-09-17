@@ -1,0 +1,27 @@
+{
+  "name": "reat-native-spinner",
+  "version": "1.0.0",
+  "description": "If you want to user to wait some time till he get something ,we should give some cup of coffee or snack ,then he will be satisfied .Here i made a Loader(some may call Progressbar / Spinner) which user might fell in love with this.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinadhkoya/react-native-spinner.git"
+  },
+  "keywords": [
+    "Spinner",
+    "Activity",
+    "Indicator",
+    "Progress",
+    "Bar",
+    "Loader"
+  ],
+  "author": "Trinadh Koya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trinadhkoya/react-native-spinner/issues"
+  },
+  "homepage": "https://github.com/trinadhkoya/react-native-spinner#readme"
+}
