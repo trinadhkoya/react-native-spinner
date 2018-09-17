@@ -40,8 +40,18 @@ Tested with React Native 0.39 and > 0.40. Also, see Tested Environments. Let me 
 
     animationType : true, set it to True and see the difference
      modalVisible : true, set it to True and see the difference
+     
+**How it looks:**
 
+![img_0026](https://github.com/trinadhkoya/react-native-spinner/blob/master/img/greenSpinner.gif)
 
+![img_0026](https://github.com/trinadhkoya/react-native-spinner/blob/master/img/redSpinner.gif)
+
+![img_0026](https://github.com/trinadhkoya/react-native-spinner/blob/master/img/purpleSpinner.gif)
+
+https://github.com/trinadhkoya/react-native-spinner/blob/master/screenshots/IMG_0023.PNG
+
+![img_0026](https://github.com/trinadhkoya/react-native-spinner/blob/master/screenshots/IMG_0023.PNG)
 
 
 **LICENSE**
